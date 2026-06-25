@@ -1,5 +1,5 @@
 Pinout confirmado de TU receptor VS1838B (componente pelado, sin PCB):
-- Pata izquierda (mirando la cara plana/lente): OUT
+- Pata izquierda (mirando el lente): OUT
 - Pata del medio: GND
 - Pata derecha: VCC
 
